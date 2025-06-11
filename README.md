@@ -1,2 +1,6 @@
 # p-gina_web_JWT
 página_web_JWT
+
+integrantes
+COCA HUAMANI KENDY ARTURO
+SURICHAQUI BARRA JOSE JOAO
